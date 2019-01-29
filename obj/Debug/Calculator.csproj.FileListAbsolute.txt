@@ -5,3 +5,10 @@ C:\Users\mrlma\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAss
 C:\Users\mrlma\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\mrlma\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\mrlma\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\for git\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\for git\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\for git\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\for git\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\for git\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\for git\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\for git\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -32,19 +32,18 @@ namespace Calculator
                     Console.WriteLine("{0} * {1} = {2}", tiv1, tiv2, tiv1 * tiv2);
                     break;
                 case "%":
-                    Console.WriteLine("{0} % {1} = {2}", tiv1, tiv2, tiv1 % tiv2);
+                    Console.WriteLine("{0} % {1} = {2}", tiv1, tiv2, (tiv1 * tiv2) / 100);
                     break;
                 case "/":
                     if (tiv2 != 0)
                         Console.WriteLine("{0} / {1} = {2}", tiv1, tiv2, (float)tiv1 / tiv2);
                     else
-                        Console.WriteLine("Զրոի! ");
+                        Console.WriteLine("To divide by zero! ");
                     break;
 
                 default:
-                    Console.WriteLine("Սխալ նշան է մուտք արվել");
+                    Console.WriteLine("You are write not a sign");
                     break;
-
             }
             Console.ReadKey();
         
